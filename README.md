@@ -1,1 +1,5 @@
 # Тестирование мобильных приложений
+[Чек-лист для тестирования мобильного приложения shopping-list]
+(https://docs.google.com/spreadsheets/d/1v8gOAoYzst8vi0-mKCF7hcPR2smEI7q23IY1etNpFuM/edit?gid=798521458#gid=798521458)
+[Тест-кейсы для тестирования мобильного приложения shopping-list] 
+(https://github.com/Burlaka27/mobile/commit/f9ace149d1c359c0faef67f3bc06aa5adcfca6ae)
