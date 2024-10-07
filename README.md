@@ -8,8 +8,8 @@
 [Скриншот перехваченного HTTPs-запроса]
 (https://github.com/Burlaka27/mobile/commit/962649aef383c3e653e72efa470e89c8d2ff70bd)
 [Тестовый прогон для мобильного приложения shopping-list] 
-(https://github.com/Burlaka27/mobile/commit/5b6e33237809b1f90e19014df2e80ecaf8206682)
+(https://github.com/Burlaka27/mobile/commit/5463f172c178fbe3faca568aae9178bbdc214dab)
 [Отчеты о дефектах для мобильного приложения shopping-list]
-(https://github.com/Burlaka27/mobile/commit/0894e7897a9f6f89c84a45ba71d2ec8ef8743034)
+(https://github.com/Burlaka27/mobile/commit/eee64740da676cfeafb540739804ed3a4290b02f)
 [Создание отчета по результатам тестирования мобильного приложения shopping-list] 
-(https://github.com/Burlaka27/mobile/commit/d32a4c4553374fa4052d112b26d676ea65bcbe15)
+(https://github.com/Burlaka27/mobile/commit/4857e706436618f1a99519d3403b8a21d1c62ecd)
